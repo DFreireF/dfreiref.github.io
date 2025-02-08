@@ -1,0 +1,177 @@
+# section information
+section:
+  name: Veröffentlichungen
+  id: publications
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  filter: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: "Nuclear Physics"
+  filter: "nuclear-physics"
+- name: "Atomic Physics"
+  filter: "atomic-physics"
+- name: "Software"
+  filter: "software"
+- name: "First Author"
+  filter: "First Author"
+
+# your publications
+publications:
+  - title: "Measurement of the Isolated Nuclear Two-Photon Decay in 72Ge"
+    publishedIn:
+      name: "Physical Review Letters 133, 022502"
+      date: "2024"
+      url: "https://doi.org/10.1103/PhysRevLett.133.022502"
+    authors:
+      - name: "D. FREIRE-FERNÁNDEZ"
+        url: "https://orcid.org/0000-0002-5898-9291"
+      - name: "et al."
+    paper:
+      url: "https://doi.org/10.1103/PhysRevLett.133.022502"
+    categories: ["nuclear-physics", "First Author"]
+    tags: ["two-photon decay", "Germanium", "experiment"]
+
+  - title: "First Proton-Induced Cross Sections on a Stored Rare Ion Beam: Measurement of 118Te(p,γ) for Explosive Nucleosynthesis"
+    publishedIn:
+      name: "Under review in Physical Review Letters"
+      date: "2024"
+    authors:
+      - name: "S. DELLMANN"
+      - name: "et al."
+    #paper:
+    categories: ["nuclear-astrophysics"]
+    tags: ["proton-induced", "explosive nucleosynthesis", "rare ion beam"]
+
+  - title: "Laser spectroscopy of accelerator-produced hydrogen-like 208Bi82+ – a test of strong-field QED with 10^5 ions"
+    publishedIn:
+      name: "Accepted in Nature Physics"
+      date: "2024"
+    authors:
+      - name: "M. HORST"
+      - name: "et al."
+    #paper:
+    categories: ["atomic-physics", "quantum-electrodynamics"]
+    tags: ["laser spectroscopy", "hydrogen-like ions", "QED"]
+
+  - title: "First simultaneous measurement of the gamma-ray and neutron emission probabilities in inverse kinematics at a heavy-ion storage ring"
+    publishedIn:
+      name: "Accepted in Physical Review C"
+      date: "2024"
+      url: "https://journals.aps.org/prc/accepted/c4076P68H7712202b8369a002d6df4bdf464f24e8"
+    authors:
+      - name: "M. SGUAZZIN"
+      - name: "et al."
+    paper:
+      url: "https://journals.aps.org/prc/accepted/c4076P68H7712202b8369a002d6df4bdf464f24e8"
+    categories: ["nuclear-physics"]
+    tags: ["gamma-ray", "neutron emission", "inverse kinematics", "storage ring"]
+
+  - title: "First electron conversion factor measurements at storage rings"
+    publishedIn:
+      name: "Manuscript in preparation"
+      date: "2024"
+    authors:
+      - name: "D. FREIRE-FERNÁNDEZ"
+        url: "https://orcid.org/0000-0002-5898-9291"
+      - name: "et al."
+    #paper:
+    categories: ["instrumentation", "nuclear-physics", "First Author"]
+    tags: ["electron conversion", "storage ring", "First Author"]
+
+  - title: "Bρ-cutted combined Schottky plus Isochronous Mass Spectrometry (S+IMS)"
+    publishedIn:
+      name: "Manuscript in preparation"
+      date: "2024"
+    authors:
+      - name: "D. FREIRE-FERNÁNDEZ"
+        url: "https://orcid.org/0000-0002-5898-9291"
+      - name: "et al."
+    #paper:
+    categories: ["mass-spectrometry", "nuclear-physics", "First Author"]
+    tags: ["Schottky", "Isochronous", "S+IMS", "First Author"]
+
+  - title: "The first in-beam reaction measurement at CRYRING@ESR using the CARME array"
+    publishedIn:
+      name: "European Physical Journal A 60, 95"
+      date: "2024"
+      url: "https://doi.org/10.1140/epja/s10050-024-01318-2"
+    authors:
+      - name: "J. MARSH"
+      - name: "et al."
+    paper:
+      url: "https://doi.org/10.1140/epja/s10050-024-01318-2"
+    categories: ["nuclear-physics"]
+    tags: ["in-beam reaction", "CRYRING", "CARME array"]
+
+  - title: "TDMchopS: A toolkit for automatic chopping of continuously acquired complex valued radio frequency samples"
+    publishedIn:
+      name: "Zenodo"
+      date: "2023"
+      url: "https://doi.org/10.5281/zenodo.8172227"
+    authors:
+      - name: "D. FREIRE-FERNÁNDEZ"
+        url: "https://orcid.org/0000-0002-5898-9291"
+    paper:
+      url: "https://doi.org/10.5281/zenodo.8172227"
+    categories: ["software", "data-analysis", "First Author", "Python"]
+    tags: ["radio frequency", "toolkit", "TDMchopS", "Python", "First Author"]
+
+  - title: "RionID: Collection of code for the identification of ringed ions in Python"
+    publishedIn:
+      name: "Zenodo"
+      date: "2023"
+      url: "https://doi.org/10.5281/zenodo.8169342"
+    authors:
+      - name: "D. FREIRE-FERNÁNDEZ"
+        url: "https://orcid.org/0000-0002-5898-9291"
+      - name: "G. HUDSON-CHANG"
+    paper:
+      url: "https://doi.org/10.5281/zenodo.8169342"
+    categories: ["software", "data-analysis", "First Author", "Python"]
+    tags: ["ringed ions", "Python", "RionID", "First Author"]
+
+  - title: "First measurement of the neutron-emission probability with a surrogate reaction in inverse kinematics at a heavy-ion storage ring"
+    publishedIn:
+      name: "Accepted in Physical Review Letters"
+      date: "2023"
+      url: "https://doi.org/10.48550/arXiv.2312.13742"
+    authors:
+      - name: "M. SGUAZZIN"
+      - name: "et al."
+    paper:
+      url: "https://doi.org/10.48550/arXiv.2312.13742"
+    categories: ["nuclear-physics"]
+    tags: ["neutron-emission", "surrogate reaction", "inverse kinematics", "storage ring"]
+
+  - title: "Indirect measurements of neutron-induced reaction crosssections at heavy-ion storage rings"
+    publishedIn:
+      name: "EPJ Web of Conferences 279, 11006"
+      date: "2023"
+      url: "https://doi.org/10.1051/epjconf/202327911006"
+    authors:
+      - name: "M. SGUAZZIN"
+      - name: "et al."
+    paper:
+      url: "https://doi.org/epjconf/202327911006"
+    categories: ["nuclear-physics"]
+    tags: ["neutron-induced reactions", "storage ring"]
+
+  - title: "Proton capture on stored radioactive Te ions"
+    publishedIn:
+      name: "EPJ Web of Conferences 279, 11018"
+      date: "2023"
+      url: "https://doi.org/10.1051/epjconf/202327911018"
+    authors:
+      - name: "S. F. DELLMANN"
+      - name: "et al."
+    paper:
+      url: "https://doi.org/10.1051/epjconf/202327911018"
+    categories: ["nuclear-physics"]
+    tags: ["proton capture", "radioactive ions", "storage ring"]

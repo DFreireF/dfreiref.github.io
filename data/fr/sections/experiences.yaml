@@ -1,0 +1,52 @@
+# section information
+section:
+  name: Expérience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Los Alamos National Laboratory
+    url: "https://www.lanl.gov/"
+    location: Los Alamos, New Mexico, États-Unis d'Amérique
+    logo: /images/sections/experiences/losalamos.jpg
+    overview: Connu pour son rôle central dans le développement de la première bombe atomique, le LANL est l'une des institutions scientifiques les plus importantes et les plus avancées au monde.
+  positions:
+  - designation: Chercheur postdoctoral au sein du groupe « Physique nucléaire et des particules et applications » (P-3)
+    start: octobre 2024
+
+- company:
+    name: Institut Max Planck de physique nucléaire
+    url: "https://www.mpi-hd.mpg.de/mpi/en/"
+    location: Heidelberg, Allemagne
+    logo: /images/sections/experiences/logo_MPIK.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: L'Institut Max Planck de physique nucléaire (MPIK) à Heidelberg est un prestigieux institut de recherche de la Société Max Planck, réputé pour ses contributions à la physique nucléaire, à la physique des particules et à la physique des astroparticules. Il est internationalement reconnu pour ses recherches fondamentales pionnières sur les phénomènes cosmiques, les interactions quantiques et les expériences de précision.
+  positions:
+  - designation: Chercheur postdoctoral à la division Ions stockés et refroidis
+    start: juillet 2024
+    end: septembre 2024
+
+  - designation: Chercheur predoctoral à la division Ions stockés et refroidis
+    start: octobre 2021
+    end: juin 2024
+
+
+- company:
+    name:  Université de Granada
+    url: "https://www.ugr.es"
+    location: Granada, Spain
+    logo: /images/sections/education/granada.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: L'Université de Granada (UGR) est une prestigieuse université publique espagnole, fondée en 1531, connue pour sa forte tradition académique et l'excellence de sa recherche. Elle est internationalement reconnue pour ses contributions aux sciences humaines, aux sciences et à la technologie, et attire des étudiants et des chercheurs du monde entier.
+  positions:
+  - designation: Chercheur junior au Laboratoire des pièges à ions et des lasers
+    start: février 2021
+    end: août 2021

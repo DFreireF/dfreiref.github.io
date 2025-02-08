@@ -1,0 +1,73 @@
+# section information
+section:
+  name: Github Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+
+projects:
+  - name: RionID
+    logo: /images/sections/projects/python.png
+    role: Developer
+    timeline: "Oct 2021 - Present"
+    repo: https://github.com/DFreireF/rionid
+    summary: "Collection of code for the identification of ringed ions in Python."
+    tags: ["academic", "python", "data-analysis"]
+
+  - name: TDMchopS
+    logo: /images/sections/projects/python.png
+    role: Developer
+    timeline: "2022 - Present"
+    repo: https://github.com/DFreireF/tdmchops
+    summary: "Code that chops NTCAP data into time chunks for high-precision analysis of Schottky signals."
+    tags: ["academic", "python", "data-analysis"]
+
+  - name: RionMass
+    logo: /images/sections/projects/python.png
+    role: Developer
+    timeline: "2023 - Present"
+    repo: https://github.com/DFreireF/RionMass
+    summary: "Toolkit for mass measurements of ringed ions implementing the CMM with polynomial fit and splines."
+    tags: ["academic", "python", "mass-measurement"]
+
+  - name: iqtools
+    logo: /images/sections/projects/python.png
+    role: Contributor
+    timeline: "Oct 2021 - Present"
+    repo: https://github.com/xaratustrah/iqtools
+    summary: "Collection of code for working with offline complex valued time series data in Python."
+    tags: ["academic", "python", "time-series"]
+
+
+  - name: LISEreader
+    logo: /images/sections/projects/python.png
+    role: Developer
+    timeline: "2021 - Present"
+    repo: https://github.com/gwgwhc/lisereader
+    summary: "Tool for reading LISE files."
+    tags: ["academic", "python", "data-processing"]
+  
+  - name: legoplot
+    logo: /images/sections/projects/python.png
+    role: Developer
+    repo: https://github.com/DFreireF/legoplot
+    summary: "3D LEGO-style bar plot using the Plotly library."
+    tags: ["hobby", "visualization", "plotly"]
+
+  - name: dfreiref.github.io
+    role: Owner
+    timeline: "2025 - Present"
+    repo: https://github.com/DFreireF/dfreiref.github.io
+    summary: "Personal website and portfolio."
+    tags: ["professional", "website"]
+
+  - name: Rest of projects (+31)
+    role: Owner
+    repo: https://github.com/DFreireF
+    summary: "The rest of my public projects"
+    tags: ["github"]

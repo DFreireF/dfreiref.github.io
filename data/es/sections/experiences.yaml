@@ -1,0 +1,50 @@
+# section information
+section:
+  name: Experiencia
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Laboratorio Nacional de los Alamos
+    url: "https://www.lanl.gov/"
+    location: Los Alamos, Nuevo Mexico, Estados Unidos
+    logo: /images/sections/experiences/losalamos.jpg
+    overview: Mejor conocido por su papel central en ayudar a desarrollar la primera bomba atómica, LANL es una de las instituciones científicas más grandes y avanzadas del mundo.
+  positions:
+  - designation: Investigador Postdoctoral en el Grupo de Física de Partículas y Nuclear y Aplicaciones (P-3)
+    start: Octubre 2024
+
+- company:
+    name: Instituto Max Planck de Física Nuclear
+    url: "https://www.mpi-hd.mpg.de/mpi/en/"
+    location: Heidelberg, Alemania
+    logo: /images/sections/experiences/logo_MPIK.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: El Instituto Max Planck de Física Nuclear (MPIK) de Heidelberg es un prestigioso instituto de investigación dependiente de la Sociedad Max Planck, famoso por sus contribuciones a la física nuclear, de partículas y de astropartículas. Es reconocido internacionalmente por ser pionero en la investigación fundamental sobre fenómenos cósmicos, interacciones cuánticas y experimentos de precisión.
+  positions:
+  - designation:  Investigador Postdoctoral en la División de Iones Almacenados y Enfriados
+    start: Julio 2024
+    end: Septiembre 2024
+
+  - designation:  Investigador predoctoral en la División de Iones Almacenados y Enfriados
+    start: Octubre 2021
+    end: Junio 2024
+
+
+- company:
+    name: Universidad de Granada
+    url: "https://www.ugr.es"
+    location: Granada, España
+    logo: /images/sections/education/granada.jpg
+    overview: La Universidad de Granada (UGR) es una prestigiosa universidad pública española, fundada en 1531, conocida por su sólida tradición académica y su excelencia investigadora. Es reconocida internacionalmente por sus contribuciones a las humanidades, las ciencias y la tecnología, atrayendo a estudiantes y académicos de todo el mundo.
+  positions:
+  - designation: Investigador Junior en el Laboratorio de Trampas de Iones y Láseres
+    start: Febrero 2021
+    end: Agosto 2021

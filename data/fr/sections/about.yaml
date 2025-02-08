@@ -1,0 +1,39 @@
+# section information
+section:
+  name: A propos de moi
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Chercheur postdoctoral
+company:
+  name: Los Alamos National Laboratory
+  url: "https://www.lanl.gov/"
+
+summary: "Je suis un chercheur en physique nucléaire et en physique des particules qui possède une grande expertise en matière de conception expérimentale, de gestion d'expériences, de développement de logiciels, d'analyse de données, de spectrométrie de masse et de spectroscopie de demi-vie. J'ai développé de nombreux outils logiciels scientifiques open-source, qui peuvent être consultés sur mon [Github] (https://github.com/dfreiref) en utilisant Python, C, C++ et Fortran."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "freire@lanl.gov"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/DFreireF"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://de.linkedin.com/david-freire-fernández-9930061b6"
+
+- name: ORCiD
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0000-0002-5898-9291"
+
+resourceLinks:
+- title: "My CV"
+  url: "files/cv.pdf"

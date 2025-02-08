@@ -1,0 +1,55 @@
+# section information
+section:
+  name: Sobre mí
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Investigador Postdoctoral
+# your company information
+company:
+  name: Los Alamos National Laboratory
+  url: "https://www.lanl.gov/"
+
+
+# a summary about you
+summary: 'Soy investigador en física nuclear y de partículas con amplia experiencia en diseño experimental, gestión de experimentos, desarrollo de software, análisis de datos, espectrometría de masas y espectroscopia de vida media. He construido múltiples herramientas de software científico de código abierto, que se pueden ver en mi [Github](https://github.com/dfreiref) utilizando Python, C, C++ y Fortran.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "freire@lanl.gov"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/DFreireF"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://de.linkedin.com/david-freire-fernández-9930061b6"
+
+- name: ORCiD
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0000-0002-5898-9291"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My CV"
+  url: "files/cv.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

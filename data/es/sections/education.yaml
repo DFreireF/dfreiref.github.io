@@ -1,0 +1,45 @@
+# section information
+section:
+  name: Educación
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+- name: Dr. rer. nat. en Física Nuclear Experimental (magna cum laude)
+  timeframe: 2021-2024
+  institution:
+    name: Universidad de Heidelberg (Alemania)
+    url: "https://www.uni-heidelberg.de/en"
+    logo: /images/sections/education/Ruprecht-Karls-Universität_Heidelberg_Logo.svg.png
+  customSections: #(optional)
+    - name: Tesis
+      content: First nuclear two-photon decay measurements at storage rings
+    - name: Supervisor
+      content: Prof. Dr. Klaus Blaum (MPIK, Alemania), Prof. Dr. Yuri Litvinov (GSI, Alemania), PD. Dr. Wolfram Korten (CEA-Saclay, Francia)
+
+- name: Máster en Física
+  timeframe: 2020-2021
+  institution:
+    name: Universidad de Granada (España)
+    url: "https://www.ugr.es/en"
+    logo: /images/sections/education/granada.jpg
+  customSections: #(optional)
+    - name: Tesis
+      content: Implementation of a micro-trap system for experiments with two-ion crystals
+    - name: Supervisor
+      content: Prof. Dr. Daniel Rodríguez Rubiales (UGR, España)
+
+- name: Grado en Física
+  timeframe: 2016-2020
+  institution:
+    name: Universidad de Granada (España)
+    url: "https://www.ugr.es/en"
+    logo: /images/sections/education/granada.jpg
+  customSections: #(optional)
+    - name: Tesis
+      content: Detection of fluorescence of Calcium-40 ions in ion traps
+    - name: Supervisor
+      content: Prof. Dr. Daniel Rodríguez Rubiales (UGR, España)

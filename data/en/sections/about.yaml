@@ -1,0 +1,43 @@
+# section information
+section:
+  name: About me
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Postdoctoral Researcher
+# your company information
+company:
+  name: Los Alamos National Laboratory
+  url: "https://www.lanl.gov/"
+
+# a summary about you
+summary: 'I am a nuclear and particle physics researcher with deep expertise across experimental design, management of experiments, software development, data analysis, mass spectrometry and half-life spectroscopy. I have built multiple open-source scientific software tools, which can be seen at my [Github](https://github.com/dfreiref) using Python, C, C++ and Fortran.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "freire@lanl.gov"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/DFreireF"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://de.linkedin.com/david-freire-fernández-9930061b6"
+
+- name: ORCiD
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0000-0002-5898-9291"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My CV"
+  url: "files/cv.pdf"

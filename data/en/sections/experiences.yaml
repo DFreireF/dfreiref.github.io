@@ -1,0 +1,52 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Los Alamos National Laboratory
+    url: "https://www.lanl.gov/"
+    location: Los Alamos, New Mexico, United States of America
+    logo: /images/sections/experiences/losalamos.jpg
+    overview: Best known for its central role in helping develop the first atomic bomb, LANL is one of the world's largest and most advanced scientific institutions.
+  positions:
+  - designation: Postdoctoral Researcher in the Particle and Nuclear Physics and Applications Group (P-3)
+    start: Oct 2024
+
+- company:
+    name: Max Planck Institute for Nuclear Physics
+    url: "https://www.mpi-hd.mpg.de/mpi/en/"
+    location: Heidelberg, Germany
+    logo: /images/sections/experiences/logo_MPIK.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: The Max Planck Institute for Nuclear Physics (MPIK) in Heidelberg is a prestigious research institute under the Max Planck Society, renowned for its contributions to nuclear, particle, and astroparticle physics. It is internationally recognized for pioneering fundamental research on cosmic phenomena, quantum interactions, and precision experiments.
+  positions:
+  - designation: Postdoctoral Researcher at the Stored and Cooled Ions Division
+    start: July 2024
+    end: September 2024
+
+  - designation: Doctoral Researcher at the Stored and Cooled Ions Division
+    start: October 2021
+    end: June 2024
+
+
+- company:
+    name: University of Granada
+    url: "https://www.ugr.es"
+    location: Granada, Spain
+    logo: /images/sections/education/granada.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: The University of Granada (UGR) is a prestigious public university in Spain, founded in 1531, known for its strong academic tradition and research excellence. It is internationally recognized for its contributions to humanities, sciences, and technology, attracting students and scholars from around the world.
+  positions:
+  - designation: Junior Researcher at the Ion Traps and Lasers Laboratory
+    start: February 2021
+    end: August 2021

@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Über mich
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Postdoc-Forscher
+# your company information
+company:
+  name: Los Alamos National Laboratory
+  url: "https://www.lanl.gov/"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Ich bin Forscher in der Kern- und Teilchenphysik und verfüge über fundierte Kenntnisse in den Bereichen Versuchsplanung, Versuchsmanagement, Softwareentwicklung, Datenanalyse, Massenspektrometrie und Halbwertszeitspektroskopie. Ich habe mehrere quelloffene wissenschaftliche Software-Tools entwickelt, die auf meinem [Github](https://github.com/dfreiref) zu sehen sind und Python, C, C++ und Fortran verwenden.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "freire@lanl.gov"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/DFreireF"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://de.linkedin.com/david-freire-fernández-9930061b6"
+
+- name: ORCiD
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0000-0002-5898-9291"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My CV"
+  url: "files/cv.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
