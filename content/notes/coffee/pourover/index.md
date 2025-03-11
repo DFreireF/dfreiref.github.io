@@ -3,7 +3,7 @@ title: Coffee Recipes Pourover
 weight: 100
 menu:
   notes:
-    name: pourover
+    name: Pourover
     identifier: coffee-recipes-pourover
     parent: coffee-recipes
     weight: 10

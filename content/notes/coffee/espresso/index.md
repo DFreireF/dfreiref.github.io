@@ -3,7 +3,7 @@ title: Coffee Recipes espresso
 weight: 100
 menu:
   notes:
-    name: espresso
+    name: Espresso
     identifier: coffee-recipes-espresso
     parent: coffee-recipes
     weight: 10

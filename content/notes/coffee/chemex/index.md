@@ -3,7 +3,7 @@ title: Coffee Recipes chemex
 weight: 100
 menu:
   notes:
-    name: chemex
+    name: Chemex
     identifier: coffee-recipes-chemex
     parent: coffee-recipes
     weight: 10
