@@ -11,9 +11,32 @@ menu:
 
 {{< note title="v60 1" >}}
 
-| Date       | Method | Grind Size  | Coffee                | Temperature | Time  | Grams In | Grams Out |
-|------------|--------|-------------|-----------------------|-------------|-------|----------|-----------|
-| 2023-03-01 | V60    | Medium-fine | Ethiopian Yirgacheffe | 92°C        | 3:30  |          |           | 
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Method</th>
+      <th>Grind Size</th>
+      <th>Coffee</th>
+      <th>Temperature</th>
+      <th>Time</th>
+      <th>Grams In</th>
+      <th>Grams Out</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2023-03-01</td>
+      <td>Chemex</td>
+      <td>Medium-coarse</td>
+      <td>Any</td>
+      <td>95°C</td>
+      <td>4:10</td>
+      <td>30</td>
+      <td>500</td>
+    </tr>
+  </tbody>
+</table>
 
 ##### Steps
 

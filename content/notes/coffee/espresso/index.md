@@ -22,7 +22,6 @@ menu:
       <th>Time</th>
       <th>Grams In</th>
       <th>Grams Out</th>
-      <th>Steps</th>
     </tr>
   </thead>
   <tbody>
@@ -35,14 +34,6 @@ menu:
       <td>3:30</td>
       <td></td>
       <td></td>
-      <td>
-        1. Heat water to 92°C.<br>
-        2. Place the V60 on your mug and add a paper filter.<br>
-        3. Rinse the filter with hot water.<br>
-        4. Add ground coffee and let it bloom for 30 seconds.<br>
-        5. Pour water slowly in a circular motion.<br>
-        6. Enjoy your coffee!
-      </td>
     </tr>
   </tbody>
 </table>

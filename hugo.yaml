@@ -51,6 +51,7 @@ markup:
       unsafe: true
     extensions:
       table: true
+      
   tableOfContents:
     startLevel: 2
     endLevel: 6
