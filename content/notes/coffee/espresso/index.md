@@ -11,9 +11,6 @@ menu:
 
 {{< note title="Espresso 1" >}}
 
-
-{{< note title="v60 1" >}}
-
 | Date       | Method | Grind Size  | Coffee                | Temperature | Time  | Grams In | Grams Out |
 |------------|--------|-------------|-----------------------|-------------|-------|----------|-----------|
 | 2023-03-01 | V60    | Medium-fine | Ethiopian Yirgacheffe | 92°C        | 3:30  |          |           | 
