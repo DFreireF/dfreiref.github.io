@@ -1,0 +1,38 @@
+/* static/css/coffee.css */
+.coffee-recipe {
+    max-width: 800px;
+    margin: 2rem auto;
+    font-family: 'Roboto', sans-serif;
+    padding: 0 1rem;
+  }
+  
+  .coffee-recipe header {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 1rem;
+  }
+  
+  .coffee-recipe .meta p {
+    margin: 0.3rem 0;
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .coffee-recipe .recipe-content h2 {
+    margin-top: 1.5rem;
+  }
+  
+  .coffee-recipes-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .coffee-recipes-list li {
+    margin: 0.5rem 0;
+  }
+  
+  .coffee-recipes-list a {
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: bold;
+  }
+  

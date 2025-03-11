@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="coffee-recipes-list">
+  <h1>Coffee Recipes</h1>
+  <ul>
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a> - <em>{{ .Params.method }}</em>
+      </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
