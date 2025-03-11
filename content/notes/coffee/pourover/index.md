@@ -26,7 +26,7 @@ menu:
   </thead>
   <tbody>
     <tr>
-      <td>2023-03-01</td>
+      <td></td>
       <td>v60</td>
       <td>Medium</td>
       <td>Any</td>
@@ -74,7 +74,7 @@ menu:
   </thead>
   <tbody>
     <tr>
-      <td>2023-03-01</td>
+      <td></td>
       <td>v60</td>
       <td>Medium</td>
       <td>Any</td>
@@ -118,7 +118,7 @@ menu:
   </thead>
   <tbody>
     <tr>
-      <td>2023-03-01</td>
+      <td></td>
       <td>Chemex</td>
       <td>Medium-coarse</td>
       <td>Any</td>
