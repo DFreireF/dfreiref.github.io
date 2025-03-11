@@ -84,7 +84,7 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 7
+    maxVisibleSections: 8
 
   # Configure various features of this theme
   features:
@@ -106,6 +106,8 @@ params:
     portfolio:
       enable: true
 
+    notes:
+      enable: true
     #here was posts and notes
 
     # Enable comment feature. There, should be only one of them.
