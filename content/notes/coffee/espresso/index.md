@@ -88,3 +88,84 @@ menu:
 - Better pressure. Maybe need to increase coffee in basket.
 
 {{< /note >}}
+{{< note title="Espresso Blend Corvus 1" >}}
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Method</th>
+      <th>Grind Size</th>
+      <th>Coffee</th>
+      <th>Temperature</th>
+      <th>Time</th>
+      <th>Grams In</th>
+      <th>Grams Out</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025-03-12</td>
+      <td>Hibrew h10a</td>
+      <td>7 </td>
+      <td>Blend Corvus</td>
+      <td>95°C</td>
+      <td></td>
+      <td>9</td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table>
+
+##### Steps
+
+1. 6 seconds pre infusion, 0 g out
+2. 30s bloom
+3. 32 g out
+
+#### Notes
+- Better pressure. Maybe need to increase coffee in basket.
+
+{{< /note >}}
+
+
+{{< note title="Blend Corvus 2" >}}
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Method</th>
+      <th>Grind Size</th>
+      <th>Coffee</th>
+      <th>Temperature</th>
+      <th>Time</th>
+      <th>Grams In</th>
+      <th>Grams Out</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025-03-12</td>
+      <td>Hibrew h10a</td>
+      <td>7 </td>
+      <td>Blend Corvus</td>
+      <td>95°C</td>
+      <td></td>
+      <td>20</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>
+
+##### Steps
+
+1. 6 seconds pre infusion, 0 g out
+2. 30s bloom
+3. 60 g out
+
+#### Notes
+- Good pressure. too fast? taste maybe sour? taste good
+
+{{< /note >}}
+
