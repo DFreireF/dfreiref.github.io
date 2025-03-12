@@ -43,7 +43,7 @@
 &lt;/div>
 &lt;/div></description></item><item><title>Coffee Recipes espresso</title><link>https://dfreiref.github.io/notes/coffee/espresso/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dfreiref.github.io/notes/coffee/espresso/</guid><description>&lt;div class="note-card ">
 &lt;div class="item">
-&lt;h5 class="note-title">&lt;span>Espresso 1&lt;/span>&lt;/h5>
+&lt;h5 class="note-title">&lt;span>Decaff Corvus 1&lt;/span>&lt;/h5>
 &lt;div class="card">
 &lt;div class="card-body">&lt;table border="1" cellspacing="0" cellpadding="5">
 &lt;thead>
@@ -60,26 +60,71 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>2023-03-01&lt;/td>
-&lt;td>V60&lt;/td>
-&lt;td>Medium-fine&lt;/td>
-&lt;td>Ethiopian Yirgacheffe&lt;/td>
-&lt;td>92°C&lt;/td>
-&lt;td>3:30&lt;/td>
+&lt;td>2025-03-12&lt;/td>
+&lt;td>Hibrew h10a&lt;/td>
+&lt;td>7 and half clicks &lt;/td>
+&lt;td>Decaff Corvus&lt;/td>
+&lt;td>95°C&lt;/td>
 &lt;td>&lt;/td>
+&lt;td>9&lt;/td>
+&lt;td>26&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h5 id="steps">Steps&lt;/h5>
+&lt;ol>
+&lt;li>6 seconds pre infusion, 2.2 g out&lt;/li>
+&lt;li>30s bloom&lt;/li>
+&lt;li>26 g out&lt;/li>
+&lt;/ol>
+&lt;h4 id="notes">Notes&lt;/h4>
+&lt;ul>
+&lt;li>it was too fast the extraction&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="note-card ">
+&lt;div class="item">
+&lt;h5 class="note-title">&lt;span>Decaff Corvus 2&lt;/span>&lt;/h5>
+&lt;div class="card">
+&lt;div class="card-body">&lt;table border="1" cellspacing="0" cellpadding="5">
+&lt;thead>
+&lt;tr>
+&lt;th>Date&lt;/th>
+&lt;th>Method&lt;/th>
+&lt;th>Grind Size&lt;/th>
+&lt;th>Coffee&lt;/th>
+&lt;th>Temperature&lt;/th>
+&lt;th>Time&lt;/th>
+&lt;th>Grams In&lt;/th>
+&lt;th>Grams Out&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2025-03-12&lt;/td>
+&lt;td>Hibrew h10a&lt;/td>
+&lt;td>7 &lt;/td>
+&lt;td>Decaff Corvus&lt;/td>
+&lt;td>95°C&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>9&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;h5 id="steps">Steps&lt;/h5>
 &lt;ol>
-&lt;li>Heat water to 92°C.&lt;/li>
-&lt;li>Place the V60 on your mug and add a paper filter.&lt;/li>
-&lt;li>Rinse the filter with hot water.&lt;/li>
-&lt;li>Add ground coffee and let it bloom for 30 seconds.&lt;/li>
-&lt;li>Pour water slowly in a circular motion.&lt;/li>
-&lt;li>Enjoy your coffee!&lt;/li>
+&lt;li>6 seconds pre infusion, 1.7 g out&lt;/li>
+&lt;li>30s bloom&lt;/li>
+&lt;li>33 g out&lt;/li>
 &lt;/ol>
+&lt;h4 id="notes">Notes&lt;/h4>
+&lt;ul>
+&lt;li>Better pressure. Maybe need to increase coffee in basket.&lt;/li>
+&lt;/ul>
 &lt;/div>
 &lt;/div>
 &lt;/div>
