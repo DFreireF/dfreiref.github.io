@@ -9,7 +9,7 @@ menu:
     weight: 10
 ---
 
-{{< note title="Espresso 1" >}}
+{{< note title="Decaff Corvus 1" >}}
 
 <table border="1" cellspacing="0" cellpadding="5">
   <thead>
@@ -26,13 +26,53 @@ menu:
   </thead>
   <tbody>
     <tr>
-      <td>2023-03-01</td>
-      <td>V60</td>
-      <td>Medium-fine</td>
-      <td>Ethiopian Yirgacheffe</td>
-      <td>92°C</td>
-      <td>3:30</td>
+      <td>2025-03-12</td>
+      <td>Hibrew h10a</td>
+      <td>7 and half clicks </td>
+      <td>Decaff Corvus</td>
+      <td>95°C</td>
       <td></td>
+      <td>9</td>
+      <td>26</td>
+    </tr>
+  </tbody>
+</table>
+
+##### Steps
+
+1. 6 seconds pre infusion, 2.2 g out
+2. 30s bloom
+3. 26 g out
+
+#### Notes
+- it was too fast the extraction 
+
+{{< /note >}}
+
+{{< note title="Decaff Corvus 2" >}}
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Method</th>
+      <th>Grind Size</th>
+      <th>Coffee</th>
+      <th>Temperature</th>
+      <th>Time</th>
+      <th>Grams In</th>
+      <th>Grams Out</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025-03-12</td>
+      <td>Hibrew h10a</td>
+      <td>7 </td>
+      <td>Decaff Corvus</td>
+      <td>95°C</td>
+      <td></td>
+      <td>9</td>
       <td></td>
     </tr>
   </tbody>
@@ -40,11 +80,11 @@ menu:
 
 ##### Steps
 
-1. Heat water to 92°C.
-2. Place the V60 on your mug and add a paper filter.
-3. Rinse the filter with hot water.
-4. Add ground coffee and let it bloom for 30 seconds.
-5. Pour water slowly in a circular motion.
-6. Enjoy your coffee!
+1. 6 seconds pre infusion, 1.7 g out
+2. 30s bloom
+3. 33 g out
+
+#### Notes
+- Better pressure. Maybe need to increase coffee in basket.
 
 {{< /note >}}
