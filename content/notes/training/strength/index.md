@@ -34,3 +34,16 @@ menu:
 - 215 x 5 x 7 | 240 x 10 x 3
 
 {{< /note >}}
+
+{{< note title="Smolov Jr Bench III" >}}
+
+- 200 x 4 x 9 | 230 x 7 x 5
+- 215 x 5 x 7 | 240 x 10 x 3
+	
+- 210 x 4 x 9 | 240 x 7 x 5
+- 225 x 5 x 7 | 250 x 10 x 3
+	
+- 215 x 4 x 9 | 245 x 7 x 5
+- 230 x 5 x 7 | 255 x 10 x 3
+
+{{< /note >}}
