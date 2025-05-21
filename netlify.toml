@@ -5,7 +5,7 @@ publish = "public"
 [context.production.environment]
 HUGO_ENABLEGITINFO = "true"
 HUGO_ENV           = "production"
-HUGO_VERSION       = "0.147.4"
+HUGO_VERSION       = "0.146.4"
 NODE_VERSION       = "v23.1.0"
 NPM_VERSION        = "10.9.2"
 
@@ -14,21 +14,21 @@ command = "hugo mod tidy && hugo mod npm pack && npm install && hugo --gc --mini
 
     [context.split1.environment]
     HUGO_ENV     = "production"
-    HUGO_VERSION = "0.147.4"
+    HUGO_VERSION = "0.146.4"
     NODE_VERSION = "v23.1.0"
     NPM_VERSION  = "10.9.2"
 
 [context.deploy-preview]
 command = "hugo mod tidy && hugo mod npm pack && npm install && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
     [context.deploy-preview.environment]
-    HUGO_VERSION = "0.147.4"
+    HUGO_VERSION = "0.146.4"
     NODE_VERSION = "v23.1.0"
     NPM_VERSION  = "10.9.2"
 
 [context.branch-deploy]
 command = "hugo mod tidy && hugo mod npm pack && npm install && hugo --gc --minify -b $DEPLOY_PRIME_URL"
     [context.branch-deploy.environment]
-    HUGO_VERSION = "0.147.4"
+    HUGO_VERSION = "0.146.4"
     NODE_VERSION = "v23.1.0"
     NPM_VERSION  = "10.9.2"
 
